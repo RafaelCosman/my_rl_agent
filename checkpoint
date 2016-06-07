@@ -1,0 +1,2 @@
+model_checkpoint_path: "envModelVars"
+all_model_checkpoint_paths: "envModelVars"
